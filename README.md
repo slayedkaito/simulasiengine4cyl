@@ -30,6 +30,7 @@ python 4cyl_simulator.py
 Jika file **bocchi.png** tidak tersedia, program akan tetap berjalan menggunakan background abu-abu secara otomatis.
 
 ---
+Kalau anda malas, pake aja yang sudah jadi exe namun masih versi lama
 
 ## ⚙️ Fitur
 
